@@ -11,6 +11,8 @@
 </p>
 <hr style="height:2px;border-width:0;color:blue;background-color:gray">
 
+ <img width=300px highet=150px border-radius=25px align="left" alt="angular" src="https://cdn.discordapp.com/attachments/1178806685696004109/1180564229716201543/fatherdoug211_if_saitama_from_one_punch_man_was_a_software_deve_975ae91c-53d5-4587-8da0-ac088c7a0702.png?ex=657de11e&is=656b6c1e&hm=4caac1b1f15846c981469f9a32e5fefe49430320b21788c60f3a196e0a9d751b&"/> <br>
+ 
 👯 I’m looking to collaborate on Open Source Projects<br>
 📫 You can reach me at ah.mhameed.b@gmail.com<br>
 
@@ -22,6 +24,8 @@
 
 <div align=left>
 <td><img  align="left" alt="angular" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhahmad&layout=compact"/></td>
+ 
+  
 <td><img  align="left" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/></td>
 <td><img    align="left" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></td>
 <td><img    align="left" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
